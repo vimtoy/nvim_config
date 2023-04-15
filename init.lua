@@ -1,2 +1,3 @@
-require('basic')
-require('keybindings')
+require("basic")
+require("keybindings")
+require("lazy-config")
